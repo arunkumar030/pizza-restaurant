@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/pizza-restaurant/static/css/main.be58371c.css",
+    "main.js": "/pizza-restaurant/static/js/main.c1e7c692.js",
+    "static/js/787.71e672d5.chunk.js": "/pizza-restaurant/static/js/787.71e672d5.chunk.js",
+    "static/media/pizzaLeft.jpg": "/pizza-restaurant/static/media/pizzaLeft.24b07891fef1c8dae848.jpg",
+    "static/media/vegan.jpg": "/pizza-restaurant/static/media/vegan.52cbfe9e6f8d75e18f8b.jpg",
+    "static/media/pizza.jpeg": "/pizza-restaurant/static/media/pizza.21a1098fa87e28d80f37.jpeg",
+    "static/media/multiplePizzas.jpeg": "/pizza-restaurant/static/media/multiplePizzas.490709e2113d96ca24a1.jpeg",
+    "static/media/pizzaLogo.png": "/pizza-restaurant/static/media/pizzaLogo.fcdc67e6b331cba63735.png",
+    "static/media/expensive.jpg": "/pizza-restaurant/static/media/expensive.6449ceefce083d18dfef.jpg",
+    "static/media/pepperoni.jpg": "/pizza-restaurant/static/media/pepperoni.d173e5db8dacdf1324ed.jpg",
+    "static/media/pineapple.jpg": "/pizza-restaurant/static/media/pineapple.a01ab9be389f0e6bd6ec.jpg",
+    "static/media/margherita.jpg": "/pizza-restaurant/static/media/margherita.683bc9bb07f9ff0d82df.jpg",
+    "static/media/pedrotechspecial.jpg": "/pizza-restaurant/static/media/pedrotechspecial.425951cb0e484775fd4c.jpg",
+    "index.html": "/pizza-restaurant/index.html",
+    "main.be58371c.css.map": "/pizza-restaurant/static/css/main.be58371c.css.map",
+    "main.c1e7c692.js.map": "/pizza-restaurant/static/js/main.c1e7c692.js.map",
+    "787.71e672d5.chunk.js.map": "/pizza-restaurant/static/js/787.71e672d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be58371c.css",
+    "static/js/main.c1e7c692.js"
+  ]
+}
