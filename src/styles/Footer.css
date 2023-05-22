@@ -8,15 +8,24 @@
     flex-direction: column;
     padding-top: 10px;
   }
+  .h3{
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  .para{
+    color: white;
+    font-size: small;
+    
+  }
   
   .socialMedia svg {
     color: white;
     margin: 20px;
-    font-size: 70px;
+    font-size: 50px;
     cursor: pointer;
-  }
-  
-  .footer p {
-    color: white;
+    border-radius: 20px;
   }
   

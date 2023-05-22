@@ -7,7 +7,7 @@
     flex-direction: column;
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size:cover;
     font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   }
   
@@ -33,9 +33,8 @@
   }
   
   .headerContainer button {
-    color: black;
-    border: none;
-    border-radius: 5px;
+    color:wheat;
+    border:#121619;
     cursor: pointer;
     justify-content: center;
     background-color: #121619;
@@ -47,8 +46,9 @@
   }
   
   .headerContainer button:hover {
-    background-color: #07090a;
+    background-color:peru;
     cursor: pointer;
+    border-radius: 10px;
     transition: 0.3s ease-in;
   }
   

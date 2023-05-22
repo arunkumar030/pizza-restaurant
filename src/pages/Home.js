@@ -1,9 +1,7 @@
 import React from 'react';
 import {Link} from 'react-router-dom';
-import BannerImage from "../assets/pizza.jpeg";
+import BannerImage from "../assets/R.png";
 import "../styles/Home.css";
-
-
 
 function Home() {
   return (
@@ -16,7 +14,8 @@ function Home() {
             </Link>
         </div>
     </div>
+
   )
 }
 
-export default Home
+export default Home;

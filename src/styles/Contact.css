@@ -24,7 +24,7 @@
     font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
       "Lucida Sans", Arial, sans-serif;
     font-weight: 10;
-    font-size: 50px;
+    font-size: 40px;
     margin-left: 30px;
   }
   
@@ -51,12 +51,14 @@
     border: none;
     border-bottom: 1px solid #121619;
     color: black;
+    cursor: pointer;
   }
   input::placeholder,
   textarea::placeholder {
     font-weight: bold;
     color: black;
     font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
   }
   form input:focus,
   textarea:focus {
@@ -66,6 +68,9 @@
   form label {
     margin-top: 15px;
     color: grey;
+    font-size: medium;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 
+    Geneva, Verdana, sans-serif;
   }
   
   form button {
@@ -76,6 +81,10 @@
     background-color: #121619;
     color: whitesmoke;
     font-size: 15px;
-    cursor: pointer;
   }
   
+  form button:hover{
+    cursor: pointer;
+    color: peru;
+    border-radius:10px;
+  }

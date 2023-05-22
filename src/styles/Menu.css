@@ -5,10 +5,11 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    transition: 1s;
   }
   .menu .menuTitle {
     font-family: cursive;
-    font-size: 60px;
+    font-size: 23px;
   }
   
   .menuList {
@@ -29,9 +30,15 @@
     box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.2);
   }
   .menuItem:hover {
-    box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.7);
-    transition: 0.3s ease-in;
+    transform:scale(1.1);
+    z-index: 2;
     cursor: pointer;
+
+
+
+    /* box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.7);
+    transition: 0.3s ease-in;
+    cursor: pointer; */
   }
   
   .menuItem div {
@@ -44,9 +51,12 @@
     background-size: cover;
   }
   
-  .menuItem h1,
+  .menuItem h1{
+    margin-left:20px ;
+  }
   .menuItem p {
-    margin-left: 20px;
+    margin-left:250px;
+    font-size:18px;
   }
   
   @media only screen and (max-width: 1300px) {
